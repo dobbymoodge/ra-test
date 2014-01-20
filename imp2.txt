@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Not so important
+=======
+another important file
+>>>>>>> b3d7870... another important file
